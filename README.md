@@ -1,11 +1,12 @@
 # The Bauhaus Time Travelers are Strippers from the Future
-## Crossfading Version
 
-[Add your video demo here]
+## Crossfading Version
+<img width="1365" alt="Screenshot 2025-03-10 at 1 03 16 AM" src="https://github.com/user-attachments/assets/16aa7268-594a-403c-95e1-5e607e65a7e9" />
 
 ## About the Project
 
-**The Bauhaus Time Travelers are Strippers from the Future** is a real-time digital performance piece that creates a hypnotic duet between human performer and artificial intelligence. This version features a rhythmic crossfading between reality and AI-generated imagery, creating a mesmerizing dance between the present and future self.
+**The Bauhaus Time Travelers are Strippers from the Future** is a real-time digital performance piece that creates a hypnotic duet between human performer and artificial intelligence. This version features a rhythmic crossfading between reality and AI-generated imagery, creating a mesmerizing dance between the present and future self.  
+Live app: [https://bauhaus-time-traveler-strippers-mondrian.vercel.app/](https://bauhaus-time-traveler-strippers-mondrian.vercel.app/)
 
 Developed during an artistic and research residency at Lake Studios Berlin in February 2024, this iteration explores the liminal space between physical presence and digital transformation through smooth transitions and temporal overlays.
 
@@ -40,44 +41,42 @@ FAL_KEY=your_api_key_here
 
 # Run the development server
 npm run dev
-```
 
-## Live Performance
+Live Performance
 
 The piece is designed for live performance, creating a temporal dialogue between performer and AI. The 5-second crossfade cycle allows for:
-- Gradual transformation between physical and digital self
-- Rhythmic exploration of identity
-- Hypnotic visual transitions
-- Embodied interaction with latent space
+	•	Gradual transformation between physical and digital self
+	•	Rhythmic exploration of identity
+	•	Hypnotic visual transitions
+	•	Embodied interaction with latent space
 
-## Live Application
+[Live Application](https://bauhaus-time-traveler-strippers-mondrian.vercel.app/)
 
-Experience the performance piece: [LIVE APP](https://bauhaus-timetraveler-stripper.vercel.app/)
 
-## Concept
+
+Concept
 
 This version extends the original concept by exploring the temporal nature of transformation. The crossfading mechanism serves as a metaphor for the fluid transition between present and future, physical and digital, human and AI. The Bauhaus artists, reimagined as time-traveling performers, now exist in a constant state of becoming, their forms dissolving and reforming in a continuous cycle.
 
-## Themes
-- Temporal fluidity
-- Digital transformation
-- Body as interface
-- Rhythmic dialogue between human and machine
-- Bauhaus aesthetics in the digital age
-- Performance in latent space
+Themes
+	•	Temporal fluidity
+	•	Digital transformation
+	•	Body as interface
+	•	Rhythmic dialogue between human and machine
+	•	Bauhaus aesthetics in the digital age
+	•	Performance in latent space
 
-## Credits
+Credits
 
 Created during art and research residency at Lake Studios Berlin, February 2024
+Concept, Programming, Sound Design and Performance by Marlon Barrios Solano
 
-Concept, Programming, Sound Design and Performance by [Marlon Barrios Solano](https://marlonbarrios.github.io/)
-
-## MIT License
+MIT License
 
 Copyright (c) 2024 Marlon Barrios Solano
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
+of this software and associated documentation files (the “Software”), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
@@ -86,10 +85,11 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
